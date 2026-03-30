@@ -1,11 +1,11 @@
-#Lab Setup
+# Lab Setup
 
-##Environment
+## Environment
 - VirtualBox 7.x
 - Kali Linux 2026.1
 - Network: Host-Only Adapter (192.168.56.x)
 
-##Kali IP
+## Kali IP
 - 192.168.56.102
  
 ## Steps completed
